@@ -1,0 +1,15 @@
+C:\Users\Tina\Desktop\facultate\Binary Clock\BC\BC\bin\Debug\net6.0\BC.exe
+C:\Users\Tina\Desktop\facultate\Binary Clock\BC\BC\bin\Debug\net6.0\BC.deps.json
+C:\Users\Tina\Desktop\facultate\Binary Clock\BC\BC\bin\Debug\net6.0\BC.runtimeconfig.json
+C:\Users\Tina\Desktop\facultate\Binary Clock\BC\BC\bin\Debug\net6.0\BC.dll
+C:\Users\Tina\Desktop\facultate\Binary Clock\BC\BC\bin\Debug\net6.0\BC.pdb
+C:\Users\Tina\Desktop\facultate\Binary Clock\BC\BC\obj\Debug\net6.0\BC.csproj.AssemblyReference.cache
+C:\Users\Tina\Desktop\facultate\Binary Clock\BC\BC\obj\Debug\net6.0\BC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tina\Desktop\facultate\Binary Clock\BC\BC\obj\Debug\net6.0\BC.AssemblyInfoInputs.cache
+C:\Users\Tina\Desktop\facultate\Binary Clock\BC\BC\obj\Debug\net6.0\BC.AssemblyInfo.cs
+C:\Users\Tina\Desktop\facultate\Binary Clock\BC\BC\obj\Debug\net6.0\BC.csproj.CoreCompileInputs.cache
+C:\Users\Tina\Desktop\facultate\Binary Clock\BC\BC\obj\Debug\net6.0\BC.dll
+C:\Users\Tina\Desktop\facultate\Binary Clock\BC\BC\obj\Debug\net6.0\refint\BC.dll
+C:\Users\Tina\Desktop\facultate\Binary Clock\BC\BC\obj\Debug\net6.0\BC.pdb
+C:\Users\Tina\Desktop\facultate\Binary Clock\BC\BC\obj\Debug\net6.0\BC.genruntimeconfig.cache
+C:\Users\Tina\Desktop\facultate\Binary Clock\BC\BC\obj\Debug\net6.0\ref\BC.dll
